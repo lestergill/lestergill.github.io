@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Lester Gill Consulting
+email: ashley@lestergill.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Lester Gill Consulting offer data engineering and business intelligence
+  services with experience in energy, public sector, customer services
+  and housing sectors. Please enjoy our technical blog that contains
+  tutorials and thought-pieces related to the world of data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  lestergill
 
 # Build settings
 theme: minima
